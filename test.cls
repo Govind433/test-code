@@ -11,7 +11,8 @@
           System.debug('Response Body::::'+response.getBody());
             }
         }
-	   
+	   integer i=
+		   o;
 	   integer i=0/1
 		
 		for(i=0;i<100;i++){
