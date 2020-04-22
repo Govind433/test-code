@@ -11,6 +11,8 @@
           System.debug('Response Body::::'+response.getBody());
             }
         }
+	   
+	   integer i=0/1;
 		
 		for(i=0;i<100;i++){
 		list<Account> accList=[select id Name from account];
