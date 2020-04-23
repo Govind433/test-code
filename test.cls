@@ -11,11 +11,15 @@
           System.debug('Response Body::::'+response.getBody());
             }
         }
-
-	
-		
-		for(i=0;i<100;i++){
+       for(i=0;i<100;i++){
 		list<Account> accList=[select id Name from account];
 		update accList;
 		}
+	   
+	   public void testMethod(){
+		   
+	   }
+	
+		
+		
    }
