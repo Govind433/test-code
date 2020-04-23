@@ -18,6 +18,6 @@ test
 		
 		for(i=0;i<100;i++){
 		list<Account> accList=[select id Name from account];
-		
+		update accList;
 		}
    }
