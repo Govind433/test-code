@@ -1,4 +1,4 @@
-   public class Test_sonarClould {
+   public class with sharing Test_sonarClould {
     public void testConnection(){
         Http http = new Http();
         HttpRequest request = new HttpRequest();
